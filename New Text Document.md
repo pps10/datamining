@@ -57,13 +57,13 @@ $PR(A) = \sum_{P \in B_A} \frac{PR(P)}{N_P}$
 از (معادله ۴) می‌دانیم که $PR(D) = 0$. این مقدار را در معادلات دیگر جایگزین می‌کنیم:
 
 1.  $PR(A) = \frac{PR(B)}{2} + PR(C) + 0$
-    $\implies PR(A) = \frac{PR(B)}{2} + PR(C) \quad (معادله ۱')$
+    $\implies PR(A) = \frac{PR(B)}{2} + PR(C) \quad (Equation ۱')$
 
 2.  $PR(B) = PR(A) + 0$
-    $\implies PR(B) = PR(A) \quad (معادله ۲')$
+    $\implies PR(B) = PR(A) \quad (Equation ۲')$
 
 3.  $PR(C) = \frac{PR(B)}{2} + 0$
-    $\implies PR(C) = \frac{PR(B)}{2} \quad (معادله ۳')$
+    $\implies PR(C) = \frac{PR(B)}{2} \quad (Equation ۳')$
 
 اکنون از (معادله ۲') می‌دانیم $PR(A) = PR(B)$. این را در (معادله ۱') جایگزین می‌کنیم:
 $PR(B) = \frac{PR(B)}{2} + PR(C)$
